@@ -1,0 +1,15 @@
+{
+"+AT": "{#alt(tab)}",
+"C-^PS": "{#control(shift(p))}",
+"PLOC": "{PLOVER:LOOKUP}",
+"PLOT": "{PLOVER:TOGGLE}",
+"S": "{#Return}",
+"S-CP": "{#Escape}",
+"S-S": "{#tab}",
+"T-T": "{PLOVER:ADD_TRANSLATION}",
+"C-^P": "{#control(p)}",
+"CF-^": "{#control(w)}",
+"CN-^": "{#control(n)}",
+"CT-^": "{#control(tab)}",
+"CT-^S": "{#control(shift(tab))}"
+}
